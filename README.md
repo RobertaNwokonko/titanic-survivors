@@ -10,5 +10,5 @@ Titanic: Machine Learning from Disaster
 ## Defining the problem statement
 
 Analysis of what sorts of people were likely to survive.
-In particular, I will applying the tools of machine learning to predict which passengers survived the Titanic tragedy.
+In particular, I will be applying the tools of machine learning to predict which passengers survived the Titanic tragedy.
 
