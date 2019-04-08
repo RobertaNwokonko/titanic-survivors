@@ -12,3 +12,8 @@ Titanic: Machine Learning from Disaster
 Analysis of what sorts of people were likely to survive.
 In particular, I will be applying the tools of machine learning to predict which passengers survived the Titanic tragedy.
 
+## Collecting the data
+
+Training data set and testing data set are given by Kaggle you can download from
+kaggle directly.
+
