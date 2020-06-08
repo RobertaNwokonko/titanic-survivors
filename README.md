@@ -17,3 +17,6 @@ In particular, I will be applying the tools of machine learning to predict which
 Training data set and testing data set are given by Kaggle you can download from
 kaggle directly.
 
+## Exploratory data analysis
+
+In the jupyter notebook you will see plots showing several analysis and decison's taking from insights
