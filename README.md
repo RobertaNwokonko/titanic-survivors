@@ -20,3 +20,5 @@ kaggle directly.
 ## Exploratory data analysis
 
 In the jupyter notebook you will see plots showing several analysis and decison's taking from insights
+
+Please note: This repository takes a while to load.
